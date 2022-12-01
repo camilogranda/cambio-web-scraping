@@ -1,0 +1,51 @@
+Conozca las contraseñas más usadas y las menos recomendadas
+
+En 2022 las personas siguen usando las mismas contraseñas cuya principal característica es ser muy inseguras para proteger los datos. En el mundo el primer lugar se lo siguen peleando, año tras año, la palabra “password” y la serie de números “123456”.
+
+Hace pocos días NordPass reveló su lista de las 200 contraseñas más comunes en 2022. De acuerdo con el informe de la compañía, 
+a pesar de la creciente preocupación que existe sobre la ciberseguridad, los viejos hábitos son difíciles de erradicar. 
+Las investigaciones muestran que la gente sigue utilizando contraseñas débiles para proteger sus cuentas.
+
+En la lista de NordPass, este año el primer lugar se lo lleva la palabra “
+password
+”, seguida del ya clásico “123456”, que han estado entre los cinco primeros lugares durante los últimos tres años.
+
+
+¿Por qué las contraseñas más usadas son también las menos recomendadas?
+
+Los cibercriminales tienen acceso a estas tablas. Teniendo en cuenta la cantidad de veces que una misma clave fue utilizada y el número de veces que aparece en la base de datos, 
+arremeten con ataques de fuerza bruta para acceder a los sistemas o las cuentas. 
+Es decir, prueban varias claves y todas las combinaciones posibles hasta encontrar aquella que les permite el acceso. 
+Es una acción similar a la que desarrolla un usuario cuando olvida sus contraseñas
+ y prueba con varias combinaciones de números y palabras hasta hallar la correcta.
+
+“Lo que muestra esto es un patrón que muchas veces siguen las personas a la hora de elegir una contraseña para que sea fácil de recordar. Sin embargo, esto la convierte en fácil de predecir. Sobre todo, en ataques de fuerza bruta automatizados en los que los cibercriminales utilizan 
+software 
+para probar múltiples combinaciones de direcciones de correo y contraseñas en segundos”, destacó Camilo Gutiérrez Amaya, jefe del Laboratorio de Investigación de ESET Latinoamérica.
+
+La lista que presenta Nordpass 
+surge del análisis de una base de datos de tres 
+terabytes 
+que contiene contraseñas que quedaron expuestas en incidentes de seguridad. 
+Esta información se recopiló gracias a la colaboración de investigadores independientes especializados en incidentes.
+
+
+En el mundo
+ 
+ 
+ 
+En Colombia
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Además, el informe presenta una clasificación de las contraseñas más populares en categorías como deportes, nombres de artistas o grupos musicales, comidas, videojuegos, películas o autos, entre otros.

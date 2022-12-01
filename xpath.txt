@@ -1,0 +1,7 @@
+Revista Cambio
+
+Links   = //div[@class="sc-1tuc3j3-0 btQPgL"]/a/@href
+        //div[@class="sc-hsl1be-0 iSBFgw"]/a/@href
+Title   = //*[@id="page-content"]/article/header/div/div/div/div/div[1]/div/h1/text()
+Abstract= //section[@class="sc-1od3j49-1 bEHWLV"]/p[not(@class)]/text()
+Body    = //div[@class="block-text"]/p/descendant-or-self::text()
